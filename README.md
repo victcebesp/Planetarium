@@ -1,7 +1,8 @@
 # Sistema planetario
 Víctor Ceballos Espinosa
 
-## Introducción
+## Introducción
+
 En esta ocasión, el objetivo principal de la práctica consiste en hacer uso de los métodos relacionados con las transformaciones disponibles en Processing. Entre esas transformaciones podemos encontrar escalado, rotaciones o traslaciones. Inicialmente realizamos pruebas con objetos en dos dimensiones y posteriormente pasamos a las tres dimensiones.
 
 Esta práctica consiste en implementar un sistema planetario en el que se sitúen una estrella, cinco planetas y por lo menos una luna. En mi caso he querido imitar el sistema solar, por lo que he implementado un Sol, alrededor cinco planetas entre los cuales se encuentra la Tierra con sus respectiva Luna.
@@ -37,7 +38,8 @@ Para implementar el requerimiento de poder controlar por teclado un objeto, he d
 - Para mover el destructor hacia arriba, se hará uso de la tecla “ESPACIO”.
 - Para mover el destructor hacia debajo, se hará uso de la tecla “x”.
 
-## Cámara
+## Cámara
+
 He decidido añadir una herramienta que permita mover la cámara usando el ratón, de tal manera que el usuario pueda observar el sistema planetario desde diferentes puntos de vista. Para mover la cámara, se tendrá que hacer un click con el ratón y arrastrar. La herramienta también permite hacer zoom haciendo uso de la rueda del ratón.
 
 ## Referencias
